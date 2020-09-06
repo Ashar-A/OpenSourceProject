@@ -5,6 +5,6 @@ using System.Text;
 namespace ConsoleApp6
 {
     class a
-    {
+    { 
     }
 }
